@@ -1,3 +1,3 @@
 # leetcode
 
-Study repo for practice some code and languages.
+Study repo for practicing some code and languages.
